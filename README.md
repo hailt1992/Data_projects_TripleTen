@@ -1,6 +1,6 @@
 # Data_projects_TripleTen
 
-Exprerience hands-on projects as an Analyst when attending Triple Ten Bootcamps
+Exprerience hands-on projects as a Business Intelligence Analyst when attending Triple Ten Bootcamps
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | Superstore | Tableau Dashboard and Storytelling Project - Investigate the root causes by analyzing the return metric across geographic, categorical, and ship-mode dimensions during the peak-demand season. |
