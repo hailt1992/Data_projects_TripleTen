@@ -1,10 +1,9 @@
 # Data_projects_TripleTen
 
-@@ -5,5 +5,6 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+Exprerience hands-on projects as an Analyst when attending Triple Ten Bootcamps
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Norbu stress control| The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
-| 2 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
-| 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 1 | Superstore | Tableau Dashboard and Storytelling Project: Strategies for reducing returned orders by analyzing the return rate (%). |
+| 2 | Superstore | Teableau Dashboard Project: Developed a revenue growth strategy by performing a multi-dimensional analysis of sales metrics across geographic regions, seasonal trends, and product categories. |
+| 3 | E - Commerce Company | Spreadsheet Project: Evaluated customer conversion and retention metrics by building multi-stage conversion funnels to pinpoint drop-off points and optimize the customer journey. |
+| 4 | Manhattan Vacation Rental Market | Advance Spreadsheet Project: Airbnb Property Analysis. Analyzed demand patterns across various locations, property sizes, and neighborhoods to provide data-driven investment strategies for stakeholders. |
