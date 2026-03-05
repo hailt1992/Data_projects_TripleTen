@@ -1,4 +1,4 @@
-# Data_projects_TripleTen
+# Data_Projects_TripleTen
 
 Exprerience hands-on projects as a Business Intelligence Analyst when attending Triple Ten Bootcamps
 | Project number | Title | Description |
